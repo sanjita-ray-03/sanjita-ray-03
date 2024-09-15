@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjita Ray
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Django Framework and Java-script
+- 🌱 I’m currently learning Django Framework and Node.js
 - 💞️ I’m looking to collaborate on Gut-hub
 - 📫 How to reach me by social Media
 - 😄 Pronouns: Her
